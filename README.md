@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/Jack-OC/Bento-Grid)
+- Live Site URL: ( https://jack-oc.github.io/Bento-Grid/)
 
 ## My process
 
